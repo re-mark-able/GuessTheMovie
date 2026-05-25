@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="GuessTheMovie.AnswerPage"
+             Title="Guess the Show or Movie">
+    
+    <ScrollView BackgroundColor="Black">
+        <Border Padding="20" Margin="5" Stroke="#4fa2df">
+            <VerticalStackLayout Padding="5" Margin="20">
+
+                <Label x:Name="resultText" FontSize="36" VerticalOptions="Center" HorizontalTextAlignment="Center" />
+                <Label TextColor="DarkGray" x:Name="statText" FontSize="16" VerticalOptions="Center" HorizontalTextAlignment="Center" />
+                <Label TextColor="DarkGray" x:Name="movieTitle" FontSize="36" VerticalOptions="Center" HorizontalTextAlignment="Center" />
+                <Image x:Name="movieImage" WidthRequest="250" />
+                <Button Margin="5" WidthRequest="200" x:Name="MoviesBtn" Text="Next" Clicked="NextClick"  CornerRadius="0" BackgroundColor="#4fa2df"  />
+            </VerticalStackLayout>
+        </Border>
+    </ScrollView>
+</ContentPage>

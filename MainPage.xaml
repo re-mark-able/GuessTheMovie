@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="GuessTheMovie.MainPage"
+             Title="Mark presents...">
+
+    <ScrollView BackgroundColor="Black">
+        <Border Padding="20" Margin="5" Stroke="#4fa2df">
+            <VerticalStackLayout Spacing="10">
+                <Label FontSize="36" FontFamily="Limelight" TextColor="#4fa2df" FontAutoScalingEnabled="True"  x:Name="movieText" Text="Guess the Show or Movie" HorizontalTextAlignment="Center" />
+            
+                <Button WidthRequest="200" CornerRadius="0" x:Name="MoviesBtn" BackgroundColor="#4fa2df" Text="📽️ Guess Movies" Clicked="OnStartMovie" />
+                <Button WidthRequest="200" CornerRadius="0" x:Name="TVBtn" BackgroundColor="#4fa2df" Text="📺 Guess Shows" Clicked="OnStartTV" />
+
+                <HorizontalStackLayout HorizontalOptions="Center" Spacing="10" >
+                    <Switch OnColor="#686d70" ThumbColor="#4fa2df" OffColor="LightGray" IsToggled="false" x:Name="kidFriendly" />
+                    <Label TextColor="DarkGray" Text="Kid Friendly?" VerticalTextAlignment="Center" />
+
+                </HorizontalStackLayout>
+                
+            </VerticalStackLayout>
+        </Border>
+    </ScrollView>
+</ContentPage>

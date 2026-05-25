@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="GuessTheMovie.MovieGuessPage"
+             Title="">
+
+    <ScrollView BackgroundColor="Black">
+        <Border Padding="20" Margin="5" Stroke="#4fa2df">
+            <VerticalStackLayout Padding="5" Margin="20">
+
+                <Label x:Name="roundNum" Text="Round" TextColor="#4fa2df" FontFamily="Limelight" FontSize="16" VerticalOptions="Center" HorizontalTextAlignment="Center" />
+                <Label x:Name="movieTitle" TextColor="DarkGray" FontSize="72" VerticalOptions="Center" HorizontalTextAlignment="Center" />
+                <Label x:Name="moviePlot" Margin="10" TextColor="DarkGray" FontAttributes="Italic"  VerticalOptions="Center" HorizontalTextAlignment="Center" />
+                <Border Margin="10" Stroke="#4fa2df">
+                    <Grid HorizontalOptions="FillAndExpand">
+                        <Entry x:Name="guessInput" TextColor="DarkGray" Placeholder="Enter guess here..." Completed="OnSubmitClicked" />
+                        <Button CornerRadius="0" Text="→" FontAttributes="Bold"  BackgroundColor="#4fa2df" HorizontalOptions="End" Clicked="OnSubmitClicked" WidthRequest="50" />
+                    </Grid>
+                    
+                </Border>
+
+
+                <Button Text="Skip"  BackgroundColor="Black" TextColor="#4fa2df" Clicked="OnSkipClicked" WidthRequest="200" />
+
+            </VerticalStackLayout>
+        </Border>
+    </ScrollView>
+</ContentPage>

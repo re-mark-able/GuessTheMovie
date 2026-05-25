@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="GuessTheMovie.GameOverPage"
+             Title="Guess the Show or Movie">
+    
+    <ScrollView BackgroundColor="Black">
+        <Border Padding="20" Margin="5" Stroke="#4fa2df">
+            <VerticalStackLayout Padding="5" Margin="20">
+                <Label Text="Game Over" FontFamily="Limelight" TextColor="#4fa2df" FontSize="36" VerticalOptions="Center" HorizontalTextAlignment="Center" />
+                <Label x:Name="endTime" TextColor="DarkGray" VerticalOptions="Center" HorizontalTextAlignment="Center" />
+
+
+                <CollectionView x:Name="collectionView">
+                    <CollectionView.ItemTemplate>
+                        <DataTemplate />
+
+
+                    </CollectionView.ItemTemplate>
+                </CollectionView>
+
+
+                <Label Text="Thank you for playing."  VerticalOptions="Center" TextColor="DarkGray" HorizontalTextAlignment="Center" />
+                <Button Margin="5" x:Name="PlayAgainButton" Text="Play Again" Clicked="PlayAgainClick" BackgroundColor="#4fa2df" CornerRadius="0" />
+            </VerticalStackLayout>
+        </Border>
+    </ScrollView>
+</ContentPage>
