@@ -3,28 +3,24 @@
   "WorkspaceRootPath": "D:\\tafe\\mobile-development\\GuessTheMovie\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{325D28EF-AB89-FD7A-4A5F-067831C65949}|GuessTheMovie.csproj|d:\\tafe\\mobile-development\\guessthemovie\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{325D28EF-AB89-FD7A-4A5F-067831C65949}|GuessTheMovie.csproj|solutionrelative:user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{325D28EF-AB89-FD7A-4A5F-067831C65949}|GuessTheMovie.csproj|d:\\tafe\\mobile-development\\guessthemovie\\guessthemovie.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{325D28EF-AB89-FD7A-4A5F-067831C65949}|GuessTheMovie.csproj|solutionrelative:guessthemovie.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{325D28EF-AB89-FD7A-4A5F-067831C65949}|GuessTheMovie.csproj|d:\\tafe\\mobile-development\\guessthemovie\\gameoverpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{325D28EF-AB89-FD7A-4A5F-067831C65949}|GuessTheMovie.csproj|solutionrelative:gameoverpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{325D28EF-AB89-FD7A-4A5F-067831C65949}|GuessTheMovie.csproj|d:\\tafe\\mobile-development\\guessthemovie\\platforms\\android\\androidmanifest.xml||{4E01A4BC-CFCF-452C-8C08-51352512D197}",
+      "RelativeMoniker": "D:0:0:{325D28EF-AB89-FD7A-4A5F-067831C65949}|GuessTheMovie.csproj|solutionrelative:platforms\\android\\androidmanifest.xml||{4E01A4BC-CFCF-452C-8C08-51352512D197}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{325D28EF-AB89-FD7A-4A5F-067831C65949}|GuessTheMovie.csproj|d:\\tafe\\mobile-development\\guessthemovie\\answerpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{325D28EF-AB89-FD7A-4A5F-067831C65949}|GuessTheMovie.csproj|solutionrelative:answerpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{325D28EF-AB89-FD7A-4A5F-067831C65949}|GuessTheMovie.csproj|d:\\tafe\\mobile-development\\guessthemovie\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{325D28EF-AB89-FD7A-4A5F-067831C65949}|GuessTheMovie.csproj|solutionrelative:mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{325D28EF-AB89-FD7A-4A5F-067831C65949}|GuessTheMovie.csproj|d:\\tafe\\mobile-development\\guessthemovie\\guessmovieapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{325D28EF-AB89-FD7A-4A5F-067831C65949}|GuessTheMovie.csproj|solutionrelative:guessmovieapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{325D28EF-AB89-FD7A-4A5F-067831C65949}|GuessTheMovie.csproj|d:\\tafe\\mobile-development\\guessthemovie\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{325D28EF-AB89-FD7A-4A5F-067831C65949}|GuessTheMovie.csproj|solutionrelative:mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{325D28EF-AB89-FD7A-4A5F-067831C65949}|GuessTheMovie.csproj|d:\\tafe\\mobile-development\\guessthemovie\\gameoverpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{325D28EF-AB89-FD7A-4A5F-067831C65949}|GuessTheMovie.csproj|solutionrelative:gameoverpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{325D28EF-AB89-FD7A-4A5F-067831C65949}|GuessTheMovie.csproj|d:\\tafe\\mobile-development\\guessthemovie\\movieitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{325D28EF-AB89-FD7A-4A5F-067831C65949}|GuessTheMovie.csproj|solutionrelative:movieitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{325D28EF-AB89-FD7A-4A5F-067831C65949}|GuessTheMovie.csproj|d:\\tafe\\mobile-development\\guessthemovie\\movieguesspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{325D28EF-AB89-FD7A-4A5F-067831C65949}|GuessTheMovie.csproj|solutionrelative:movieguesspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -37,77 +33,71 @@
           "SelectedChildIndex": 2,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "MovieItem.cs",
-              "DocumentMoniker": "D:\\tafe\\mobile-development\\GuessTheMovie\\MovieItem.cs",
-              "RelativeDocumentMoniker": "MovieItem.cs",
-              "ToolTip": "D:\\tafe\\mobile-development\\GuessTheMovie\\MovieItem.cs",
-              "RelativeToolTip": "MovieItem.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-21T10:56:32.501Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "GuessMovieApiService.cs",
-              "DocumentMoniker": "D:\\tafe\\mobile-development\\GuessTheMovie\\GuessMovieApiService.cs",
-              "RelativeDocumentMoniker": "GuessMovieApiService.cs",
-              "ToolTip": "D:\\tafe\\mobile-development\\GuessTheMovie\\GuessMovieApiService.cs",
-              "RelativeToolTip": "GuessMovieApiService.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAAQwCYAAABsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-21T10:44:02.222Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "User.cs",
-              "DocumentMoniker": "D:\\tafe\\mobile-development\\GuessTheMovie\\User.cs",
-              "RelativeDocumentMoniker": "User.cs",
-              "ToolTip": "D:\\tafe\\mobile-development\\GuessTheMovie\\User.cs",
-              "RelativeToolTip": "User.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAA4wBoAAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-21T10:21:07.371Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "GameOverPage.xaml.cs",
-              "DocumentMoniker": "D:\\tafe\\mobile-development\\GuessTheMovie\\GameOverPage.xaml.cs",
-              "RelativeDocumentMoniker": "GameOverPage.xaml.cs",
-              "ToolTip": "D:\\tafe\\mobile-development\\GuessTheMovie\\GameOverPage.xaml.cs",
-              "RelativeToolTip": "GameOverPage.xaml.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAgwB8AAABlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-21T10:05:56.45Z"
+              "Title": "AndroidManifest.xml",
+              "DocumentMoniker": "D:\\tafe\\mobile-development\\GuessTheMovie\\Platforms\\Android\\AndroidManifest.xml",
+              "RelativeDocumentMoniker": "Platforms\\Android\\AndroidManifest.xml",
+              "ToolTip": "D:\\tafe\\mobile-development\\GuessTheMovie\\Platforms\\Android\\AndroidManifest.xml",
+              "RelativeToolTip": "Platforms\\Android\\AndroidManifest.xml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2026-06-10T02:24:08.684Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "GameOverPage.xaml",
-              "DocumentMoniker": "D:\\tafe\\mobile-development\\GuessTheMovie\\GameOverPage.xaml",
-              "RelativeDocumentMoniker": "GameOverPage.xaml",
-              "ToolTip": "D:\\tafe\\mobile-development\\GuessTheMovie\\GameOverPage.xaml",
-              "RelativeToolTip": "GameOverPage.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-05-20T08:51:21.539Z"
+              "DocumentIndex": 0,
+              "Title": "GuessTheMovie",
+              "DocumentMoniker": "D:\\tafe\\mobile-development\\GuessTheMovie\\GuessTheMovie.csproj",
+              "RelativeDocumentMoniker": "GuessTheMovie.csproj",
+              "ToolTip": "D:\\tafe\\mobile-development\\GuessTheMovie\\GuessTheMovie.csproj",
+              "RelativeToolTip": "GuessTheMovie.csproj",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAADMAAAB3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-06-10T02:20:49.829Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "AnswerPage.xaml.cs",
-              "DocumentMoniker": "D:\\tafe\\mobile-development\\GuessTheMovie\\AnswerPage.xaml.cs",
-              "RelativeDocumentMoniker": "AnswerPage.xaml.cs",
-              "ToolTip": "D:\\tafe\\mobile-development\\GuessTheMovie\\AnswerPage.xaml.cs",
-              "RelativeToolTip": "AnswerPage.xaml.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBgAAAApAAAAAAAAAA==",
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "D:\\tafe\\mobile-development\\GuessTheMovie\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "MainPage.xaml.cs",
+              "ToolTip": "D:\\tafe\\mobile-development\\GuessTheMovie\\MainPage.xaml.cs",
+              "RelativeToolTip": "MainPage.xaml.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAwwCgAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-20T06:04:41.624Z"
+              "WhenOpened": "2026-06-10T02:13:38.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "D:\\tafe\\mobile-development\\GuessTheMovie\\MainPage.xaml",
+              "RelativeDocumentMoniker": "MainPage.xaml",
+              "ToolTip": "D:\\tafe\\mobile-development\\GuessTheMovie\\MainPage.xaml",
+              "RelativeToolTip": "MainPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAACKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-06-10T02:13:26.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MovieGuessPage.xaml",
+              "DocumentMoniker": "D:\\tafe\\mobile-development\\GuessTheMovie\\MovieGuessPage.xaml",
+              "RelativeDocumentMoniker": "MovieGuessPage.xaml",
+              "ToolTip": "D:\\tafe\\mobile-development\\GuessTheMovie\\MovieGuessPage.xaml",
+              "RelativeToolTip": "MovieGuessPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-06-10T02:13:13.931Z",
+              "EditorCaption": ""
             }
           ]
         }

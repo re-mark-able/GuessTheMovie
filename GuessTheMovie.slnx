@@ -1,3 +1,6 @@
 <Solution>
-  <Project Path="GuessTheMovie.csproj" />
+  <Project Path="GuessTheMovie.csproj">
+    <BuildType Project="Release" />
+    <Deploy Solution="Debug|*" />
+  </Project>
 </Solution>
